@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-Touch gitDefinition
+let gitDefinition ('Git is a terminal that can organize files as well as save those files on your GitHub if correctly commited')
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,7 +19,7 @@ Touch gitDefinition
 */
 
 //CODE HERE
-
+let gitHubDefinition ('GitHub is the online source webDevelopers use to save multiple iterations of projects, you can also use github to collaberate with other developers')
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -28,6 +28,7 @@ Touch gitDefinition
 */
 
 //CODE HERE
+let gitInitDefinition ('git init selects initializes a local repository')
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -36,6 +37,7 @@ Touch gitDefinition
 */
 
 //CODE HERE
+let gitCloneDefinition ('git clone is a hit command that creates a clone of the local repository')
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -44,6 +46,7 @@ Touch gitDefinition
 */
 
 //CODE HERE
+let gitStatusDefinition ('git status shows what changes have been made to the initialized local repository')
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -55,6 +58,7 @@ Touch gitDefinition
 */
 
 //CODE HERE
+let gitAddDefinition ('git add selects the files in the repository to track')
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -66,7 +70,7 @@ Touch gitDefinition
 */
 
 //CODE HERE
-
+let gitCommitDefinition ('git Commit snapshots the files selected in the repository')
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -75,3 +79,4 @@ Touch gitDefinition
 */
 
 //CODE HERE
+let gitPushDefinition ('git push uploads files into the remote repository (github)')
